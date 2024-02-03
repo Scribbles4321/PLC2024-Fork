@@ -3,9 +3,9 @@ module Main where
 main =
     do
     print (myFunc1 5)
-    --print (MyFunc2 10)
-    --print (3rdFunc)
+    print (ilovenayeonfromtwice 10)
+    print (ilovetwice)
 
 myFunc1 x = x*10
---MyFunc2 x = x*2
---3rdFunc = "Hello, this is 3rd Func"
+ilovenayeonfromtwice x = x*2
+ilovetwice = "Hello, this is 3rd Func"
