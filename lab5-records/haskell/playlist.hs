@@ -31,8 +31,8 @@ instance (Show Item) where
 piece1 =
     Piece
     { 
-        item_name = "Moonlight Sonata",
-        item_performer = Person "Claudio Arrau",
+        item_name = "FANCY",
+        item_performer = Person "TWICE",
         item_length_secs = 17*60+26
     }
 
